@@ -1,0 +1,3 @@
+This is the first file added after initialization of git
+This file is not added to staging area
+It means git doesn't know this file is created
